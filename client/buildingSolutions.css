@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+body {
+  background-image: url(/17.png);
+  font-size: 18px;
+}
+.back {
+  background-color: #484848;
+  color: white;
+}
+.hbold {
+  font-weight: bold;
+  font-size: 1.4em;
+}

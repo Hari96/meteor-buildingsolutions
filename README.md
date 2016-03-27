@@ -1,2 +1,2 @@
 # meteor-buildingsolutions
-## First assignment for Coursera responsive website course
+### First assignment for Coursera responsive website course
